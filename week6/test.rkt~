@@ -1,5 +1,0 @@
-(define (stream-for-n-steps s n)
-  (if (= n 0)
-      null
-      (let ([next (s)])
-            (cons (car next) (stream-for-n-steps (cdr next) (- n 1))))))
