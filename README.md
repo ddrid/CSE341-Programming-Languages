@@ -5,9 +5,9 @@ CSE341  course materials and homework
 
 - [x] week2
 
-- [ ] week3
+- [x] week3
 
-- [ ] week4
+- [x] week4
 - [ ] week5
 - [ ] week6
 - [ ] week7
